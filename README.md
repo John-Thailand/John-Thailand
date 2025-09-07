@@ -25,4 +25,6 @@
 # Certification
 <p>基本情報技術者試験</p>
 <p>Oracle Certified Java Programmer, Silver SE 8</p>
-<p>Cloud Digital Leader</p>
+<a href="https://zenn.dev/mukkun69n/scraps/2d60c900cf11cd" target="_blank" rel="noopener noreferrer">
+  Cloud Digital Leader
+</a>
