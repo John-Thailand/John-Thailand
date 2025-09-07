@@ -21,3 +21,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="60" height="60" alt="NestJS" />
 </p>
+
+# Certification
+<p>基本情報技術者試験</p>
+<p>Oracle Certified Java Programmer, Silver SE 8</p>
+<p>Cloud Digital Leader</p>
