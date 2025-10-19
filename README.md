@@ -28,3 +28,10 @@
 <a href="https://zenn.dev/mukkun69n/scraps/2d60c900cf11cd" target="_blank" rel="noopener noreferrer">
   Cloud Digital Leader
 </a>
+<p>
+  LinuCレベル1（
+  <a href="https://zenn.dev/mukkun69n/scraps/019c679757e625" target="_blank" rel="noopener noreferrer">101</a>
+  /
+  <a href="https://zenn.dev/mukkun69n/scraps/7dcfb47b608c01" target="_blank" rel="noopener noreferrer">102</a>
+  ）
+</p>
